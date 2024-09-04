@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>APM | Area Politica Monetaria</title>
+<link>https://github.bportugal.pt/eeu227/apm.github/research/</link>
+<atom:link href="https://github.bportugal.pt/eeu227/apm.github/research/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.5.55</generator>
+<lastBuildDate>Sun, 29 Sep 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Title</title>
+  <dc:creator>author 1</dc:creator>
+  <dc:creator>author 2</dc:creator>
+  <link>https://github.bportugal.pt/eeu227/apm.github/research/article1.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="heading-1" class="level2">
+<h2 class="anchored" data-anchor-id="heading-1">Heading 1</h2>
+<p>Text.</p>
+</section>
+<section id="heading-2" class="level2">
+<h2 class="anchored" data-anchor-id="heading-2">Heading 2</h2>
+<p>Text.</p>
+<blockquote class="blockquote">
+<p>Quote.</p>
+</blockquote>
+<p>Text.</p>
+</section>
+<section id="heading-3" class="level2">
+<h2 class="anchored" data-anchor-id="heading-3">Heading 3</h2>
+<p>Text.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>category 1</category>
+  <category>category 2</category>
+  <guid>https://github.bportugal.pt/eeu227/apm.github/research/article1.html</guid>
+  <pubDate>Sun, 29 Sep 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://github.bportugal.pt/eeu227/apm.github/research/images/data-in-de-zorg-shutterstock_2419651697.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

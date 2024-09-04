@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Title\n\n\nSubtitle\n\n\n\ncategory 1\n\n\ncategory 2\n\n\n\nDescription. \n\n\n\n\n\nSep 2024\n\n\nauthor 1, author 2\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "projects/inflation_dashboard.html",
+    "href": "projects/inflation_dashboard.html",
+    "title": "Inflation Dashboard",
+    "section": "",
+    "text": "link",
+    "crumbs": [
+      "Projects",
+      "Inflation Dashboard"
+    ]
+  },
+  {
+    "objectID": "projects/gdp_dashboard.html",
+    "href": "projects/gdp_dashboard.html",
+    "title": "GDP Dashboard",
+    "section": "",
+    "text": "Stay tuned, more to follow soon.",
+    "crumbs": [
+      "Projects",
+      "GDP dashboard"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "ÁREA POLITÍCA MONETÁRIA"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "GDP Dashboard\n\n\nInteractive dashboard exploring GDP growth in the euro area.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInflation Dashboard\n\n\nInteractive dashboard exploring inflation in the euro area.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "research/article1.html",
+    "href": "research/article1.html",
+    "title": "Title",
+    "section": "",
+    "text": "Text."
+  },
+  {
+    "objectID": "research/article1.html#heading-1",
+    "href": "research/article1.html#heading-1",
+    "title": "Title",
+    "section": "",
+    "text": "Text."
+  },
+  {
+    "objectID": "research/article1.html#heading-2",
+    "href": "research/article1.html#heading-2",
+    "title": "Title",
+    "section": "Heading 2",
+    "text": "Heading 2\nText.\n\nQuote.\n\nText."
+  },
+  {
+    "objectID": "research/article1.html#heading-3",
+    "href": "research/article1.html#heading-3",
+    "title": "Title",
+    "section": "Heading 3",
+    "text": "Heading 3\nText."
+  }
+]

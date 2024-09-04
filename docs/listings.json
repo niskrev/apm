@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/article1.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/gdp_dashboard.html",
+      "/projects/inflation_dashboard.html"
+    ]
+  }
+]
